@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="60"
+   height="100"
+   viewBox="0 0 60 100"
+   sodipodi:docname="bricks.svg"
+   inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+   inkscape:export-xdpi="1.1900001"
+   inkscape:export-ydpi="1.1900001">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1208"
+     inkscape:window-height="723"
+     id="namedview4"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="4.05"
+     inkscape:cx="13.19719"
+     inkscape:cy="47.19244"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     width="60"
+     height="30"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAAAARnQU1BAACx jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD2SURBVGhD7Zm9DYMwEIXZLCPRgNnIbQpKVkCK F0AZISM4PAkj4hw/ovPdK05CyAXfh7l3MlXbtg/n3LPrumipwAz2ar54WQLfsoK9SjdCCHGaJhMF 1sS9ChiGIVqQAEawigK0S0jwhwK0StjCnwrQJiGHvyRAiwQJ/rIALBzHsegCg1S7TTBfTAHcAfwE 2ANK7gNsgkwBxiDnAA5CQh/gJLgcAf4ciEhbpeQIxLMzBhmDjMH7Mdj3ffTeF11guBWDGuDTy5Mk HMagJvg9CbsCNMJLEkQBmuFzCX8CLMBvJawCmqZ5W/05CnaMwvX8l/RjTcLCXH8BCiwjTsInlxsA AAAASUVORK5CYII= "
+     id="image10"
+     x="0"
+     y="0.25477707"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <image
+     width="60"
+     height="30"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAAAARnQU1BAACx jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD2SURBVGhD7Zm9DYMwEIXZLCPRgNnIbQpKVkCK F0AZISM4PAkj4hw/ovPdK05CyAXfh7l3MlXbtg/n3LPrumipwAz2ar54WQLfsoK9SjdCCHGaJhMF 1sS9ChiGIVqQAEawigK0S0jwhwK0StjCnwrQJiGHvyRAiwQJ/rIALBzHsegCg1S7TTBfTAHcAfwE 2ANK7gNsgkwBxiDnAA5CQh/gJLgcAf4ciEhbpeQIxLMzBhmDjMH7Mdj3ffTeF11guBWDGuDTy5Mk HMagJvg9CbsCNMJLEkQBmuFzCX8CLMBvJawCmqZ5W/05CnaMwvX8l/RjTcLCXH8BCiwjTsInlxsA AAAASUVORK5CYII= "
+     id="image10-2"
+     x="0"
+     y="32.929192"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <image
+     width="60"
+     height="30"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAAAARnQU1BAACx jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD2SURBVGhD7Zm9DYMwEIXZLCPRgNnIbQpKVkCK F0AZISM4PAkj4hw/ovPdK05CyAXfh7l3MlXbtg/n3LPrumipwAz2ar54WQLfsoK9SjdCCHGaJhMF 1sS9ChiGIVqQAEawigK0S0jwhwK0StjCnwrQJiGHvyRAiwQJ/rIALBzHsegCg1S7TTBfTAHcAfwE 2ANK7gNsgkwBxiDnAA5CQh/gJLgcAf4ciEhbpeQIxLMzBhmDjMH7Mdj3ffTeF11guBWDGuDTy5Mk HMagJvg9CbsCNMJLEkQBmuFzCX8CLMBvJawCmqZ5W/05CnaMwvX8l/RjTcLCXH8BCiwjTsInlxsA AAAASUVORK5CYII= "
+     id="image10-2-0"
+     x="0"
+     y="65.603607"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 0.26870432,52.023097 4.08564848,-6.685601 3.6213748,1.29997 5.7525824,-2.117826 2.849879,-6.469408 5.047342,-3.205425 -4.412572,3.721818 -2.830204,6.678008 -6.4998894,2.321392 -3.0642396,-1.114271 -4.54992168,5.571343 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path140"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <g
+     id="g4495"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       id="path160"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 29.482689,91.741946 5.614069,-9.18667 4.976114,1.7863 7.661722,-2.910058 4.158879,-8.889636 6.935528,-4.404542 -6.063256,5.114135 -3.889008,9.176216 -8.931466,3.189813 -4.21054,-1.531115 -6.252042,7.655557 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path162"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 47.720047,82.447241 1.208064,-0.650518 1.301037,3.624296 -1.022211,2.601998 2.602052,5.761721 -3.903051,-5.854675 1.115164,-2.509044 c 0,0 -1.48689,-3.066768 -1.301053,-2.973778"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path164"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 47.38944,82.223308 0.637559,-0.318746 0.637617,-0.3188 -7.730569,-4.563806 0.462107,-8.492929 -1.51764,9.062518 7.510926,4.631763 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path166"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 49.583542,84.478487 4.068877,0.668047 1.882632,2.42917 -2.125506,-1.70044 -3.826001,-0.182191 c 0,0 0.121456,-1.032394 0,-1.214586"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path168"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.10129881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.92558479;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.389163,84.296296 -1.639722,3.218673 -0.121456,5.526404 -0.850202,-5.890787 1.214585,-2.732834 c 0,0 1.457512,-0.182192 1.396795,-0.121456 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path170"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 49.887207,78.891365 3.400864,0.485855 2.915025,-0.364382 2.246978,-1.943315 -1.882632,2.550624 -3.461563,0.72873 -3.643757,-0.425119 c 0,0 0.364348,-0.850185 0.425085,-1.032393"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path172"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 35.312134,76.765859 5.101267,0.242927 0.242929,0.971658 -5.344196,-1.214585 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path174"
+       style="fill:#ffffdc;fill-opacity:0.5;fill-rule:evenodd;stroke:none;opacity:0.674"
+       d="m 29.450828,91.69924 5.614071,-8.42156 4.976115,1.7863 6.653431,-2.52718 -6.399158,-3.946205 -5.015068,-1.70966 4.675846,0.779334 1.408175,-8.408838 -0.462054,8.492929 6.945215,4.10018 4.014214,-8.580254 6.999247,-5.105878 -6.127012,5.815471 -2.418127,5.705683 2.940434,0.420062 2.915025,-0.364382 2.247032,-2.70848 -1.882632,3.315789 -3.461617,0.72873 -3.190313,-0.372245 -0.888336,2.096094 0.879526,2.450076 3.618221,0.496184 2.010125,1.664077 -2.12556,-0.807799 -3.297097,-0.157013 -0.905508,2.304766 2.474558,4.805306 -3.77554,-4.89826 1.115199,-2.509044 c 0,0 -0.883778,-1.822807 -1.2034,-2.615114 l -4.485379,1.601929 -1.582881,3.107135 -0.121454,5.526387 -0.850239,-5.89077 0.967047,-2.175753 -1.799524,0.642673 -4.210539,-1.531115 -6.252043,6.890445 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g4589"
+     transform="matrix(0.93217916,0,0,0.93217916,2.9708541,5.142524)"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       id="path144"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 45.711021,47.558651 1.29434,-0.696956 1.393931,3.883022 -1.095239,2.787746 2.787805,6.17303 -4.181677,-6.272619 1.194828,-2.688157 c 0,0 -1.593034,-3.285694 -1.393988,-3.186066"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path146"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 45.516304,47.637718 0.683133,-0.3415 0.683075,-0.341576 -8.282372,-4.889582 0.495041,-9.099211 -1.625982,9.709441 8.047105,4.962428 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path148"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 47.707601,49.734902 4.359338,0.715736 2.017027,2.60258 -2.277297,-1.821829 -4.099068,-0.195197 c 0,0 0.130126,-1.106093 0,-1.30129"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path150"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.10853019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.92558479;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.754946,45.135559 -1.756758,3.448443 -0.130124,5.920897 -0.910954,-6.311292 1.301347,-2.927922 c 0,0 1.56156,-0.195197 1.496489,-0.130126 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path152"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 46.08992,46.339607 3.6436,0.520539 3.123119,-0.390394 2.407441,-2.082042 -2.017046,2.732705 -3.708712,0.780751 -3.903869,-0.455409 c 0,0 0.390394,-0.910952 0.455467,-1.10615"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path154"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 32.344809,41.787757 5.465486,0.260268 0.260272,1.041022 -5.725758,-1.30129 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 40.08821,78.818563 -5.253013,4.529157 -4.01361,-3.441442 -8.195751,-0.0095 -7.052267,6.825499 -8.0494463,1.645587 7.4870983,-2.619315 6.90216,-7.189403 9.48187,0.200355 3.389123,2.930325 5.061998,-2.871226 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path160-1"
+     sodipodi:nodetypes="cccccccccccc"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 23.001186,78.952804 -1.360533,0.177601 0.07509,-3.85001 1.881899,-2.067308 -0.379352,-6.310642 1.561934,6.86086 -1.935651,1.947343 c 0,0 0.29714,3.395235 0.156608,3.242155"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path162-7"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 21.983328,76.391059 -3.564136,-2.073398 -0.894017,-2.940392 1.380506,2.345949 3.510228,1.532899 c 0,0 -0.481185,0.921438 -0.432583,1.134941"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path166-3"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 27.706631,78.767471 2.67855,-2.423615 2.081756,-5.12076 -1.30359,5.807311 -2.108257,2.12105 c 0,0 -1.426826,-0.348858 -1.348459,-0.383986 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.10129881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.92558479;stroke-dasharray:none;stroke-opacity:1"
+     id="path168-1"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 19.709686,81.50366 -3.004816,-1.665235 -2.853654,-0.697717 -2.791759,1.015609 2.667602,-1.712859 3.494118,0.551914 3.253413,1.69499 c 0,0 -0.643255,0.66467 -0.764904,0.813298"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path170-5"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 40.102772,78.869816 -4.980516,3.814217 -4.013611,-3.441441 -7.117213,-0.0082 4.574075,5.966539 4.077306,3.3837 -4.091669,-2.393563 -4.310698,7.355909 3.456567,-7.771453 -5.029486,-6.304899 -6.8069,6.587927 -8.3587725,2.27824 7.7964585,-3.251955 4.291678,-4.470309 -2.598011,-1.439771 -2.853653,-0.697717 -3.064329,1.73058 2.940121,-2.427849 3.494168,0.551933 2.848535,1.484086 1.576622,-1.642259 0.05076,-2.602664 -3.204242,-1.7523 -1.285642,-2.270877 1.698476,1.511861 3.024973,1.320999 1.666988,-1.831131 -0.600851,-5.371535 1.783417,5.921747 -1.935684,1.947331 c 0,0 0.176621,2.018042 0.193099,2.87223 l 4.761794,0.100612 2.585712,-2.339635 2.081748,-5.120745 -1.30355,5.807309 -1.678543,1.68866 1.910415,0.04038 3.389123,2.930325 z"
+     style="opacity:0.67400004;fill:#ffffdc;fill-opacity:0.5;fill-rule:evenodd;stroke:none"
+     id="path174-3"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 0.185784,85.650874 4.0856485,-6.685601 3.6213748,1.29997 5.7525827,-2.117826 2.849879,-6.469408 5.047342,-3.205425 -4.412572,3.721818 -2.830204,6.678008 -6.4998897,2.321392 -3.0642396,-1.114271 -4.5499217,5.571343 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="path140-4"
+     inkscape:export-filename="/Users/daniele/Development/repositories/unity/unity-course/block-breaker/Assets/Sprites/bricks.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>
