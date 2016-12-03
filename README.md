@@ -3,7 +3,7 @@ A classic Arkanoid game clone built with Unity. The game has been developed foll
 It is a great start point for learning Unity.
 
 # Play
-Click [here](http://example.com "Block Bracker") to play the game in the browser.
+Click [here](https://edesdan.github.io/block-breaker/ "Block Bracker") to play the game.
 
 # How to collaborate
 You can fork/clone the repository and start adding new levels, than just submit a pull request.
